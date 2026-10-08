@@ -4,10 +4,6 @@ A learning project for understanding and building **AI Agents with LangChain**.
 
 This project covers the progression from creating tools and tool calling to building an automated agent with `create_agent`, human-in-the-loop approval, real-world APIs, and a Streamlit frontend.
 
-##  Live Demo
-
-**Live Demo:** `YOUR_RENDER_URL`
-
 
 ##  Preview
 
